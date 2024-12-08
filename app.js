@@ -4,7 +4,7 @@ const port = 3000;
 
 // Define a GET route
 app.get('/', (req, res) => {
-    res.send("hello jenkins");
+    res.send("kastam");
 });
 
 // Start the server
